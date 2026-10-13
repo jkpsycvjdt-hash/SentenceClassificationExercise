@@ -6,20 +6,16 @@ The model is trained and evaluated using accuracy and F1 scores, then compared w
 
 Results:
 
-Model
+Model: Pretrained BERT (untrained classifier)
 
-Accuracy
+Accuracy: 31.62%
 
-F1
+F1: 0.00
 
-Pretrained BERT (untrained classifier)
+-------------------
 
-31.62%
+Model: Fine-tuned BERT
 
-0.00
+Accuracy: 85.54%
 
-Fine-tuned BERT
-
-85.54%
-
-0.90
+F1: 0.90
